@@ -20,17 +20,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sammem.tn">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/samem/samem-dark.svg">
-      <img src="assets/samem/samem-light.svg" height="44" alt="Samem">
-    </picture>
-  </a>
-  <br>
-  <sub>Designer at <a href="https://sammem.tn">Samem</a></sub>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
     <img src="assets/divider-light.svg" width="640" alt="">
@@ -44,7 +33,12 @@
 
 #### Design
 
-Logos, identities, video and motion.
+<p>
+  <a href="https://sammem.tn"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/samem/samem-dark.svg">
+    <img src="assets/samem/samem-light.svg" height="40" align="absmiddle" alt="Samem">
+  </picture></a>&ensp;<b>Designer at <a href="https://sammem.tn">Samem</a></b>&ensp;·&ensp;logos, identities, video and motion.
+</p>
 
 <p>
   <img src="assets/stack/photoshop.svg" width="32" height="32" alt="Photoshop" title="Photoshop">&ensp;
