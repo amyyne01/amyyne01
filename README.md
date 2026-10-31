@@ -1,19 +1,18 @@
-<img align="left" width="160" src="assets/planet-spin-dark.gif#gh-dark-mode-only" alt="">
-<img align="left" width="160" src="assets/planet-spin-light.gif#gh-light-mode-only" alt="">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/planet-spin-dark.gif">
+    <img src="assets/planet-spin-light.gif" width="140" alt="">
+  </picture>
+</p>
 
-### Hey!
+<h1 align="center">Med Amine Nehdi</h1>
 
-I'm **Med Amine Nehdi**.
+<p align="center">Full-stack developer and designer. Industrial engineering student.</p>
 
-I build full-stack apps and the infrastructure under them, and I design: brand, graphics, motion.
-
-Industrial engineering student.
-
-Right now: **AHG Universal Converter**, a desktop media downloader.
-
-<br>
-<br>
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aminenehdi/">LinkedIn</a> ·
+  <a href="https://discord.gg/NMRgaSQVNx">Discord</a>
+</p>
 
 #### Projects
 
@@ -24,31 +23,27 @@ Right now: **AHG Universal Converter**, a desktop media downloader.
 
 #### Design
 
-Brand, graphics and motion work: logos, identities, video and animation.
+Logos, identities, video and motion.
 
 <p>
-  <img src="assets/stack/photoshop.svg" height="32" alt="Photoshop" title="Photoshop">&nbsp;&nbsp;
-  <img src="assets/stack/illustrator.svg" height="32" alt="Illustrator" title="Illustrator">&nbsp;&nbsp;
-  <img src="assets/stack/figma.svg" height="32" alt="Figma" title="Figma">&nbsp;&nbsp;
-  <img src="assets/stack/premiere.svg" height="32" alt="Premiere Pro" title="Premiere Pro">&nbsp;&nbsp;
-  <img src="assets/stack/aftereffects.svg" height="32" alt="After Effects" title="After Effects">&nbsp;&nbsp;
+  <img src="assets/stack/photoshop.svg" height="32" alt="Photoshop" title="Photoshop">
+  <img src="assets/stack/illustrator.svg" height="32" alt="Illustrator" title="Illustrator">
+  <img src="assets/stack/figma.svg" height="32" alt="Figma" title="Figma">
+  <img src="assets/stack/premiere.svg" height="32" alt="Premiere Pro" title="Premiere Pro">
+  <img src="assets/stack/aftereffects.svg" height="32" alt="After Effects" title="After Effects">
 </p>
 
 #### Code
 
 <p>
-  <img src="assets/stack/javascript.svg" height="32" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
-  <img src="assets/stack/typescript.svg" height="32" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;
-  <img src="assets/stack/c.svg" height="32" alt="C" title="C">&nbsp;&nbsp;
-  <img src="assets/stack/cplusplus.svg" height="32" alt="C++" title="C++">&nbsp;&nbsp;
-  <img src="assets/stack/csharp.svg" height="32" alt="C#" title="C#">&nbsp;&nbsp;
-  <img src="assets/stack/react.svg" height="32" alt="React" title="React">&nbsp;&nbsp;
-  <img src="assets/stack/nextdotjs.svg" height="32" alt="Next.js" title="Next.js">&nbsp;&nbsp;
-  <img src="assets/stack/django.svg" height="32" alt="Django" title="Django">&nbsp;&nbsp;
-  <img src="assets/stack/postgresql.svg" height="32" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;
-  <img src="assets/stack/mongodb.svg" height="32" alt="MongoDB" title="MongoDB">&nbsp;&nbsp;
+  <img src="assets/stack/javascript.svg" height="32" alt="JavaScript" title="JavaScript">
+  <img src="assets/stack/typescript.svg" height="32" alt="TypeScript" title="TypeScript">
+  <img src="assets/stack/c.svg" height="32" alt="C" title="C">
+  <img src="assets/stack/cplusplus.svg" height="32" alt="C++" title="C++">
+  <img src="assets/stack/csharp.svg" height="32" alt="C#" title="C#">
+  <img src="assets/stack/react.svg" height="32" alt="React" title="React">
+  <img src="assets/stack/nextdotjs.svg" height="32" alt="Next.js" title="Next.js">
+  <img src="assets/stack/django.svg" height="32" alt="Django" title="Django">
+  <img src="assets/stack/postgresql.svg" height="32" alt="PostgreSQL" title="PostgreSQL">
+  <img src="assets/stack/mongodb.svg" height="32" alt="MongoDB" title="MongoDB">
 </p>
-
-#### Contact
-
-[LinkedIn](https://www.linkedin.com/in/aminenehdi/) · [Discord](https://discord.gg/NMRgaSQVNx)
