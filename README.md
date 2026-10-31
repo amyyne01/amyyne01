@@ -1,44 +1,30 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/planet-spin-dark.gif">
-    <img src="assets/planet-spin-light.gif" width="140" alt="">
-  </picture>
-</p>
-
-<h1 align="center">Med Amine Nehdi</h1>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg">
-    <img src="assets/tagline-light.svg" width="640" alt="Full-stack developer and designer. Industrial engineering student.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <img src="assets/hero-light.svg" width="830" alt="Med Amine Nehdi. Full-stack developer and designer. Study: industrial engineering student. Work: designer at Samem. Projects: universal-converter.">
   </picture>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aminenehdi/">LinkedIn</a> ·
-  <a href="https://discord.gg/NMRgaSQVNx">Discord</a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-    <img src="assets/divider-light.svg" width="640" alt="">
-  </picture>
+  <a href="https://discord.gg/NMRgaSQVNx">Discord</a> ·
+  <a href="https://samem.tn">Samem</a>
 </p>
 
 #### Projects
 
-- **[Universal Converter](https://github.com/amyyne01/UNIVERSAL-CONVERTER-)**: paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video in one window. Electron, React, TypeScript.
+<a href="https://github.com/amyyne01/UNIVERSAL-CONVERTER-">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/converter-dark.svg">
+    <img src="assets/converter-light.svg" width="830" alt="universal-converter: paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video in one window. Built with Electron, React, TypeScript.">
+  </picture>
+</a>
+
 - **[ahg-studio](https://github.com/sinfoo/ahg-studio)**: screen recorder, video optimizer and multi-track editor. Electron, React, FFmpeg. Collaborator.
 
 #### Design
 
-<p>
-  <a href="https://sammem.tn"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/samem/samem-dark.svg">
-    <img src="assets/samem/samem-light.svg" height="40" align="absmiddle" alt="Samem">
-  </picture></a>&ensp;<b>Designer at <a href="https://sammem.tn">Samem</a></b>&ensp;·&ensp;logos, identities, video and motion.
-</p>
+Logos, identities, video and motion.
 
 <p>
   <img src="assets/stack/photoshop.svg" width="32" height="32" alt="Photoshop" title="Photoshop">&ensp;
