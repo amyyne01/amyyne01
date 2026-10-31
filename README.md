@@ -16,34 +16,32 @@
 
 #### Projects
 
-| | |
-| --- | --- |
-| [Universal Converter](https://github.com/amyyne01/UNIVERSAL-CONVERTER-) | Paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video in one window. Electron, React, TypeScript. |
-| [ahg-studio](https://github.com/sinfoo/ahg-studio) | Premium screen recorder, video optimizer and multi-track editor. Electron, React, FFmpeg. Collaborator. |
+- **[Universal Converter](https://github.com/amyyne01/UNIVERSAL-CONVERTER-)**: paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video in one window. Electron, React, TypeScript.
+- **[ahg-studio](https://github.com/sinfoo/ahg-studio)**: screen recorder, video optimizer and multi-track editor. Electron, React, FFmpeg. Collaborator.
 
 #### Design
 
 Logos, identities, video and motion.
 
 <p>
-  <img src="assets/stack/photoshop.svg" height="32" alt="Photoshop" title="Photoshop">
-  <img src="assets/stack/illustrator.svg" height="32" alt="Illustrator" title="Illustrator">
-  <img src="assets/stack/figma.svg" height="32" alt="Figma" title="Figma">
-  <img src="assets/stack/premiere.svg" height="32" alt="Premiere Pro" title="Premiere Pro">
-  <img src="assets/stack/aftereffects.svg" height="32" alt="After Effects" title="After Effects">
+  <img src="assets/stack/photoshop.svg" width="32" height="32" alt="Photoshop" title="Photoshop">&ensp;
+  <img src="assets/stack/illustrator.svg" width="32" height="32" alt="Illustrator" title="Illustrator">&ensp;
+  <img src="assets/stack/figma.svg" width="32" height="32" alt="Figma" title="Figma">&ensp;
+  <img src="assets/stack/premiere.svg" width="32" height="32" alt="Premiere Pro" title="Premiere Pro">&ensp;
+  <img src="assets/stack/aftereffects.svg" width="32" height="32" alt="After Effects" title="After Effects">
 </p>
 
 #### Code
 
 <p>
-  <img src="assets/stack/javascript.svg" height="32" alt="JavaScript" title="JavaScript">
-  <img src="assets/stack/typescript.svg" height="32" alt="TypeScript" title="TypeScript">
-  <img src="assets/stack/c.svg" height="32" alt="C" title="C">
-  <img src="assets/stack/cplusplus.svg" height="32" alt="C++" title="C++">
-  <img src="assets/stack/csharp.svg" height="32" alt="C#" title="C#">
-  <img src="assets/stack/react.svg" height="32" alt="React" title="React">
-  <img src="assets/stack/nextdotjs.svg" height="32" alt="Next.js" title="Next.js">
-  <img src="assets/stack/django.svg" height="32" alt="Django" title="Django">
-  <img src="assets/stack/postgresql.svg" height="32" alt="PostgreSQL" title="PostgreSQL">
-  <img src="assets/stack/mongodb.svg" height="32" alt="MongoDB" title="MongoDB">
+  <img src="assets/stack/javascript.svg" width="32" height="32" alt="JavaScript" title="JavaScript">&ensp;
+  <img src="assets/stack/typescript.svg" width="32" height="32" alt="TypeScript" title="TypeScript">&ensp;
+  <img src="assets/stack/c.svg" width="32" height="32" alt="C" title="C">&ensp;
+  <img src="assets/stack/cplusplus.svg" width="32" height="32" alt="C++" title="C++">&ensp;
+  <img src="assets/stack/csharp.svg" width="32" height="32" alt="C#" title="C#">&ensp;
+  <img src="assets/stack/react.svg" width="32" height="32" alt="React" title="React">&ensp;
+  <img src="assets/stack/nextdotjs.svg" width="32" height="32" alt="Next.js" title="Next.js">&ensp;
+  <img src="assets/stack/django.svg" width="32" height="32" alt="Django" title="Django">&ensp;
+  <img src="assets/stack/postgresql.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL">&ensp;
+  <img src="assets/stack/mongodb.svg" width="32" height="32" alt="MongoDB" title="MongoDB">
 </p>
