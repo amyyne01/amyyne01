@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="36" viewBox="0 0 640 36" role="img" aria-label="Full-stack developer and designer. Industrial engineering student.">
+<style>
+.t{font:15px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#e6edf3}
+@keyframes type{from{width:0}to{width:598px}}
+@keyframes caret{from{transform:translateX(0)}to{transform:translateX(594px)}}
+@keyframes blink{50%{opacity:0}}
+#r{animation:type 2.8s steps(66,end) .4s both}
+#c{animation:caret 2.8s steps(66,end) .4s both,blink 1s step-end 3.2s infinite}
+@media (prefers-reduced-motion:reduce){#r,#c{animation:none}#r{width:598px}#c{display:none}}
+</style>
+<clipPath id="k"><rect id="r" x="21" y="0" width="0" height="36"/></clipPath>
+<text class="t" x="23" y="23" textLength="594" lengthAdjust="spacingAndGlyphs" clip-path="url(#k)">Full-stack developer and designer. Industrial engineering student.</text>
+<rect id="c" x="23" y="9" width="2" height="19" fill="#58a6ff"/>
+</svg>

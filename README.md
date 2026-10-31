@@ -7,11 +7,23 @@
 
 <h1 align="center">Med Amine Nehdi</h1>
 
-<p align="center">Full-stack developer and designer. Industrial engineering student.</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg">
+    <img src="assets/tagline-light.svg" width="640" alt="Full-stack developer and designer. Industrial engineering student.">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aminenehdi/">LinkedIn</a> ·
   <a href="https://discord.gg/NMRgaSQVNx">Discord</a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <img src="assets/divider-light.svg" width="640" alt="">
+  </picture>
 </p>
 
 #### Projects
