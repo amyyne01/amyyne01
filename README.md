@@ -17,7 +17,7 @@ Right now: **AHG Universal Converter**, a desktop media downloader.
 
 | Project | What it does |
 | ------- | ------------ |
-| [UNIVERSAL-CONVERTER](https://github.com/amyyne01/ahg-universal-converter) | Paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video in one window. Electron, React, TypeScript. |
+| [UNIVERSAL-CONVERTER](https://github.com/amyyne01/UNIVERSAL-CONVERTER-) | Paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video in one window. Electron, React, TypeScript. |
 
 #### Contact
 
