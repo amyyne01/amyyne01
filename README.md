@@ -20,6 +20,17 @@
 </p>
 
 <p align="center">
+  <a href="https://sammem.tn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/samem/samem-dark.svg">
+      <img src="assets/samem/samem-light.svg" height="44" alt="Samem">
+    </picture>
+  </a>
+  <br>
+  <sub>Designer at <a href="https://sammem.tn">Samem</a></sub>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
     <img src="assets/divider-light.svg" width="640" alt="">
