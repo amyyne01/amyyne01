@@ -7,6 +7,8 @@ I'm **Med Amine Nehdi**.
 
 I build full-stack apps and the infrastructure under them, and I design: brand, graphics, motion.
 
+Industrial engineering student.
+
 Right now: **AHG Universal Converter**, a desktop media downloader.
 
 <br>
@@ -48,4 +50,4 @@ Brand, graphics and motion work: logos, identities, video and animation.
 
 #### Contact
 
-[Discord](https://discord.gg/NMRgaSQVNx)
+[LinkedIn](https://www.linkedin.com/in/aminenehdi/) · [Discord](https://discord.gg/NMRgaSQVNx)
