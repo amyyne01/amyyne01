@@ -16,9 +16,9 @@
 
 #### Projects
 
-| Project | What it does |
-| ------- | ------------ |
-| [UNIVERSAL-CONVERTER](https://github.com/amyyne01/UNIVERSAL-CONVERTER-) | Paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video in one window. Electron, React, TypeScript. |
+| | |
+| --- | --- |
+| [Universal Converter](https://github.com/amyyne01/UNIVERSAL-CONVERTER-) | Paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video in one window. Electron, React, TypeScript. |
 | [ahg-studio](https://github.com/sinfoo/ahg-studio) | Premium screen recorder, video optimizer and multi-track editor. Electron, React, FFmpeg. Collaborator. |
 
 #### Design
