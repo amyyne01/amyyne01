@@ -21,6 +21,7 @@
 </a>
 
 - **[ahg-studio](https://github.com/sinfoo/ahg-studio)**: screen recorder, video optimizer and multi-track editor. Electron, React, FFmpeg. Collaborator.
+- **[PFA-Designer](https://github.com/sinfoo/PFA-Designer)**: agent skill that writes a complete, typeset French PFA/PFE report from your project: repo analysis, diagrams from the real code, XeLaTeX template, QA lint. Python, XeLaTeX. Collaborator.
 
 #### Design
 
