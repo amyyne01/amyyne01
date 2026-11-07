@@ -13,13 +13,14 @@
 
 #### Projects
 
-<a href="https://github.com/amyyne01/UNIVERSAL-CONVERTER-">
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/converter-dark.svg">
-    <img src="assets/converter-light.svg" width="830" alt="universal-converter: paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video in one window. Built with Electron, React, TypeScript.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
+    <img src="assets/projects-light.svg" width="830" alt="$ ls projects/">
   </picture>
-</a>
+</p>
 
+- **[Universal Converter](https://github.com/amyyne01/UNIVERSAL-CONVERTER-)**: paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video in one window. Electron, React, TypeScript.
 - **[ahg-studio](https://github.com/sinfoo/ahg-studio)**: screen recorder, video optimizer and multi-track editor. Electron, React, FFmpeg. Collaborator.
 - **[PFA-Designer](https://github.com/sinfoo/PFA-Designer)**: agent skill that writes a complete, typeset French PFA/PFE report from your project: repo analysis, diagrams from the real code, XeLaTeX template, QA lint. Python, XeLaTeX. Collaborator.
 
