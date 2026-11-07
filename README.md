@@ -13,16 +13,35 @@
 
 #### Projects
 
+<!-- projects:start -->
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
-    <img src="assets/projects-light.svg" width="830" alt="$ ls projects/">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/header-dark.svg">
+    <img src="assets/projects/header-light.svg" width="830" alt="$ ls projects/">
   </picture>
 </p>
 
-- **[Universal Converter](https://github.com/amyyne01/UNIVERSAL-CONVERTER-)**: paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video in one window. Electron, React, TypeScript.
-- **[ahg-studio](https://github.com/sinfoo/ahg-studio)**: screen recorder, video optimizer and multi-track editor. Electron, React, FFmpeg. Collaborator.
-- **[PFA-Designer](https://github.com/sinfoo/PFA-Designer)**: agent skill that writes a complete, typeset French PFA/PFE report from your project: repo analysis, diagrams from the real code, XeLaTeX template, QA lint. Python, XeLaTeX. Collaborator.
+<a href="https://github.com/amyyne01/UNIVERSAL-CONVERTER-">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/universal-converter-dark.svg">
+    <img src="assets/projects/universal-converter-light.svg" width="830" alt="Universal Converter: Paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video. Electron · React · TypeScript">
+  </picture>
+</a>
+
+<a href="https://github.com/sinfoo/ahg-studio">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/ahg-studio-dark.svg">
+    <img src="assets/projects/ahg-studio-light.svg" width="830" alt="ahg-studio: Screen recorder, video optimizer and multi-track editor. Electron · React · FFmpeg">
+  </picture>
+</a>
+
+<a href="https://github.com/sinfoo/PFA-Designer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/pfa-designer-dark.svg">
+    <img src="assets/projects/pfa-designer-light.svg" width="830" alt="PFA-Designer: Agent skill that writes a typeset French PFA/PFE report from your project. Python · XeLaTeX">
+  </picture>
+</a>
+<!-- projects:end -->
 
 #### Design
 

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Universal Converter",
+    "url": "https://github.com/amyyne01/UNIVERSAL-CONVERTER-",
+    "description": "Paste a link, get the file. YouTube, Spotify, SoundCloud and short-form video.",
+    "stack": "Electron · React · TypeScript",
+    "role": "owner"
+  },
+  {
+    "name": "ahg-studio",
+    "url": "https://github.com/sinfoo/ahg-studio",
+    "description": "Screen recorder, video optimizer and multi-track editor.",
+    "stack": "Electron · React · FFmpeg",
+    "role": "collaborator"
+  },
+  {
+    "name": "PFA-Designer",
+    "url": "https://github.com/sinfoo/PFA-Designer",
+    "description": "Agent skill that writes a typeset French PFA/PFE report from your project.",
+    "stack": "Python · XeLaTeX",
+    "role": "collaborator"
+  }
+]
