@@ -28,6 +28,13 @@
   </picture>
 </a>
 
+<a href="https://github.com/amyyne01/ui-bug-hunt">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/ui-bug-hunt-dark.svg">
+    <img src="assets/projects/ui-bug-hunt-light.svg" width="830" alt="ui-bug-hunt: Claude Code skill that finds small visual bugs on every page of a site, phone to desktop. Node · Playwright">
+  </picture>
+</a>
+
 <a href="https://github.com/sinfoo/ahg-studio">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/projects/ahg-studio-dark.svg">

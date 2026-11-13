@@ -7,6 +7,13 @@
     "role": "owner"
   },
   {
+    "name": "ui-bug-hunt",
+    "url": "https://github.com/amyyne01/ui-bug-hunt",
+    "description": "Claude Code skill that finds small visual bugs on every page of a site, phone to desktop.",
+    "stack": "Node · Playwright",
+    "role": "owner"
+  },
+  {
     "name": "ahg-studio",
     "url": "https://github.com/sinfoo/ahg-studio",
     "description": "Screen recorder, video optimizer and multi-track editor.",
