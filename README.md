@@ -70,6 +70,7 @@ Logos, identities, video and motion.
   <img src="assets/stack/c.svg" width="32" height="32" alt="C" title="C">&ensp;
   <img src="assets/stack/cplusplus.svg" width="32" height="32" alt="C++" title="C++">&ensp;
   <img src="assets/stack/csharp.svg" width="32" height="32" alt="C#" title="C#">&ensp;
+  <img src="assets/stack/rust.svg" width="32" height="32" alt="Rust" title="Rust">&ensp;
   <img src="assets/stack/react.svg" width="32" height="32" alt="React" title="React">&ensp;
   <img src="assets/stack/nextdotjs.svg" width="32" height="32" alt="Next.js" title="Next.js">&ensp;
   <img src="assets/stack/django.svg" width="32" height="32" alt="Django" title="Django">&ensp;
