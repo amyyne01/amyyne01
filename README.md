@@ -35,6 +35,13 @@
   </picture>
 </a>
 
+<a href="https://github.com/amyyne01/claude-state-colors">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/state-colors-dark.svg">
+    <img src="assets/projects/state-colors-light.svg" width="830" alt="state-colors: Claude Code mod: a colored live band with subagent thinking and a colored tool trail. TypeScript · Claude Code mod">
+  </picture>
+</a>
+
 <a href="https://github.com/sinfoo/ahg-studio">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/projects/ahg-studio-dark.svg">
